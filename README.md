@@ -1,7 +1,7 @@
 # django-polls
 
 ### 1. Have you been eaten?
- I'm ok.
+ I'm ok./n
  Not good
 ### 2. How are you today?
   yes
