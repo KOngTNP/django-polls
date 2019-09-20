@@ -1,2 +1,2 @@
- # this is a comment line
- Django >= 2.1.2
+python-decouple >= 2.3
+Django >= 2.1.2
